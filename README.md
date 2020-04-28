@@ -2,6 +2,9 @@
 use web scraping
 Beatifulsoup,requests,songline
 Sendline(use your line notify token)
-\npip install requests
-\npip install bs4
-\npip install songline
+
+pip install requests
+
+pip install bs4
+
+pip install songline
