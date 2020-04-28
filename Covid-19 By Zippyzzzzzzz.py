@@ -35,7 +35,7 @@ def Covid19(usercountry):
 
 #SendLine 
 from songline import Sendline as line
-token = 'w783ZlSDPnBg866WuXawIAIIhTknvhMiss5kFeOuoxx' #input line token
+token = '' #input line token
 messenger = line(token)
 ct = Covid19(userct)
 messenger.sendtext(ct)
